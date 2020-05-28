@@ -29,5 +29,5 @@ This is a restaurant billing system built in javafx, running instruction are pro
 ![](https://github.com/AbhinavChauhan97/Restaurant-Billing-System/blob/master/screenshots/Screenshot%20(65).png)
 ![](https://github.com/AbhinavChauhan97/Restaurant-Billing-System/blob/master/screenshots/Screenshot%20(66).png)
 ![](https://github.com/AbhinavChauhan97/Restaurant-Billing-System/blob/master/screenshots/Screenshot%20(67).png)
+![](https://github.com/AbhinavChauhan97/Restaurant-Billing-System/blob/master/screenshots/Screenshot%20(68).png)
 ![](https://github.com/AbhinavChauhan97/Restaurant-Billing-System/blob/master/screenshots/Screenshot%20(69).png)
-![](https://github.com/AbhinavChauhan97/Restaurant-Billing-System/blob/master/screenshots/Screenshot%20(70).png)
