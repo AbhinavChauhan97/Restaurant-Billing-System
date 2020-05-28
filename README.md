@@ -24,3 +24,10 @@ This is a restaurant billing system built in javafx, running instruction are pro
   It should hopefully run the software 
   
   *step 3*  -> by now you're presented a login window the username is `username` and password is `password` currently username and password are hardcoded so you're not provided option to set a password of changed it , but use can change them programatically by editing the file LoginController.java
+
+**SCREENSHOTS**
+![](https://github.com/AbhinavChauhan97/Restaurant-Billing-System/blob/master/screenshots/Screenshot%20(65).png)
+![](https://github.com/AbhinavChauhan97/Restaurant-Billing-System/blob/master/screenshots/Screenshot%20(66).png)
+![](https://github.com/AbhinavChauhan97/Restaurant-Billing-System/blob/master/screenshots/Screenshot%20(67).png)
+![](https://github.com/AbhinavChauhan97/Restaurant-Billing-System/blob/master/screenshots/Screenshot%20(69).png)
+![](https://github.com/AbhinavChauhan97/Restaurant-Billing-System/blob/master/screenshots/Screenshot%20(70).png)
