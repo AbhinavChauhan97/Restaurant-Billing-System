@@ -23,7 +23,7 @@ public class Database {
 		Connection connection;
 		try {
 			Class.forName("oracle.jdbc.OracleDriver");
-			connection = DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:xe", "system", "asdfjkl;");
+			connection = DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:xe", "system", "tiger");
 			statement = connection.createStatement(ResultSet.TYPE_SCROLL_INSENSITIVE,ResultSet.CONCUR_READ_ONLY);
 			DatabaseMetaData metaData = connection.getMetaData();
 			if (!metaData.getTables(null, null, "ITEMS", null).next()) {
