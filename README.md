@@ -19,7 +19,7 @@ This is a restaurant billing system built in javafx, running instruction are pro
          
          3 - javac ./application/*.java
          
-         4 - java application.main 
+         4 - java application.Main 
          
   It should hopefully run the software 
   
