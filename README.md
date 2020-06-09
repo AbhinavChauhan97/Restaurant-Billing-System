@@ -13,13 +13,13 @@ This is a restaurant billing system built in javafx, running instruction are pro
 
 *step 2* -> in the command line move to the directory where you downloaded the above mentioned folder and run the following commands.
 
-         1 - cd Restaurant Billing System
+  1        `cd Restaurant Billing System`
          
-         2 - cd src
+  2        `cd src`
          
-         3 - javac ./application/*.java
+  3        `javac ./application/*.java`
          
-         4 - java application.Main 
+  4        `java application.Main`
          
   It should hopefully run the software 
   
