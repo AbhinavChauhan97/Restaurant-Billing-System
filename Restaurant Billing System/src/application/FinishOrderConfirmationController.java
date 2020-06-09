@@ -11,7 +11,7 @@ import javafx.scene.layout.AnchorPane;
  * 
  * This class controls the delete confirmation box page for the modify page
  * 
- * @author femi
+ * @author Abhinav Chauhan
  *
  */
 public class FinishOrderConfirmationController {
