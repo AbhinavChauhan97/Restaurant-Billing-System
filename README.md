@@ -9,7 +9,7 @@ This is a restaurant billing system built in javafx, running instruction are pro
 
 **HOW TO RUN**
 
-*step 1* -> download the folder Restaurant Billing System
+*step 1* -> download the folder Restaurant Billing System by just pressing the green (clone or download button above)
 
 *step 2* -> in the command line move to the directory where you downloaded the above mentioned folder and run the following commands.
 
